@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 export default function BattleSection() {
   return (
-    <section className="w-full bg-gradient-to-br from-purple-800 via-red-600 to-yellow-400 text-white py-20 px-6 text-center relative overflow-hidden">
+    <section className="w-full bg-gradient-to-br from-purple-800 via-red-600 to-yellow-400 text-white py-20 px-6 text-center relative overflow-hidden"   data-aos="fade-left">
       <div className="absolute inset-0 opacity-10 bg-cover bg-center" />
 
       <div className="relative z-10 max-w-4xl mx-auto">

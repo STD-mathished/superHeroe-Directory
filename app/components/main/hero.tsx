@@ -1,7 +1,7 @@
 export default function Hero() {
     return (
 
-        <section className="relative w-full min-h-[80vh] flex items-center justify-center">
+        <section className="relative w-full min-h-[80vh] flex items-center justify-center"   data-aos="fade-right">
 
       <div className="absolute inset-0 bg-black opacity-30"></div>
 

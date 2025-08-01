@@ -1,6 +1,6 @@
 export default function WhatIs() {
   return (
-    <section className="w-full bg-white py-20 px-6 text-center">
+    <section className="w-full bg-white py-20 px-6 text-center"   data-aos="fade-up">
       <h2 className="text-2xl md:text-3xl font-extrabold text-gray-800 uppercase mb-6">
         What is a superhero?
       </h2>
